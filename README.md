@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **REACT NATIVE & LITE**
 
-- 📫 How to reach me **sh.hemmar@gmail.com**
+- 📫 How to reach me **s93.hemmar@gmail.com**
 <br/>
 
 <h3 align="center">💻 GitHub Profile Stats</h3>
